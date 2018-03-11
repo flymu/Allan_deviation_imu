@@ -1,2 +1,4 @@
 # Allan_deviation_imu
-A jupyter note
+A jupyter notebook based imu allan deviation analysis tool
+should import allantools
+https://github.com/aewallin/allantools
